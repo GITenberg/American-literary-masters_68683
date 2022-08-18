@@ -1,0 +1,29 @@
+_repo: American-literary-masters_68683
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vincent, Leon H. (Leon Henry)
+    birthdate: 1859
+    deathdate: 1941
+    gutenberg_agent_id: '9817'
+    url: http://www.gutenberg.org/2009/agents/9817
+description: ''
+gutenberg_issued: '2022-08-04'
+identifiers:
+  gutenberg: '68683'
+language: en
+pgterms:marc904: https://archive.org/details/americanliterary0000vinc_e9a9/page/n7/mode/2up
+pgterms:marc905: 20210127221911vincent
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: Charlene Taylor, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :Houghton Mifflin & Company,1906.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: American literary masters
+url: http://www.gutenberg.org/ebooks/68683
